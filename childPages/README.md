@@ -1,2 +1,2 @@
 # ThisIt-github.io
-CS10
+CS10 Learning how to make a website.
